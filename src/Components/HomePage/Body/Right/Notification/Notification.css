@@ -1,0 +1,8 @@
+.notic {
+    margin-bottom: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+.notification-title {
+    font-weight: 500;
+    color: #055e73;
+}
